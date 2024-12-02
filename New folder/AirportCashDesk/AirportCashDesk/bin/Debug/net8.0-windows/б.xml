@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Flights>
+  <Flight>
+    <FlightNumber>101</FlightNumber>
+    <Route>Kyiv - Lviv</Route>
+    <StopPoints>Kyiv,Lviv</StopPoints>
+    <DepartureTime>2024-11-21T14:18:42.0751972+02:00</DepartureTime>
+    <FlightDays>Monday,Friday</FlightDays>
+    <AvailableSeats>50</AvailableSeats>
+  </Flight>
+</Flights>

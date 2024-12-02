@@ -1,0 +1,2 @@
+123|New York - London|Berlin,Paris|2024-11-27 18:12|Monday,Wednesday|50
+101|Kyiv - Lviv|Kyiv,Lviv|2024-11-27 18:12|Monday,Friday|50

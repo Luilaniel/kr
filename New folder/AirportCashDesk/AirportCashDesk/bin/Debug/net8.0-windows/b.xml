@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Flights>
+  <Flight>
+    <FlightNumber>123</FlightNumber>
+    <Route>New York - London</Route>
+    <StopPoints>Berlin,Paris</StopPoints>
+    <DepartureTime>2024-11-27T18:09:53.9158276+02:00</DepartureTime>
+    <FlightDays>Monday,Wednesday</FlightDays>
+    <AvailableSeats>50</AvailableSeats>
+  </Flight>
+  <Flight>
+    <FlightNumber>101</FlightNumber>
+    <Route>Kyiv - Lviv</Route>
+    <StopPoints>Kyiv,Lviv</StopPoints>
+    <DepartureTime>2024-11-27T18:09:54.1087800+02:00</DepartureTime>
+    <FlightDays>Monday,Friday</FlightDays>
+    <AvailableSeats>50</AvailableSeats>
+  </Flight>
+  <Flight>
+    <FlightNumber>0</FlightNumber>
+    <Route />
+    <StopPoints />
+    <DepartureTime>2024-11-27T18:09:56.8953754+02:00</DepartureTime>
+    <FlightDays />
+    <AvailableSeats>0</AvailableSeats>
+  </Flight>
+</Flights>
